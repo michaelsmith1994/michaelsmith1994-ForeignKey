@@ -100,6 +100,7 @@ of the table site_user).
 Be sure that user_fk column should be an int foreign key that references the id column in the 
 site_user table. The table will look like this:
 
+
 <table><tr><th> post </th></tr><tr><td>
 
 | id | post | user_fk |
